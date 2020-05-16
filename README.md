@@ -4,8 +4,8 @@
 
 - Make a recursive call on the sub problem
 
-- If its return
+- If its returns
 
-o True (Enjoy the code has done its job)
+> o _True_ (Enjoy the code has done its job)
 
-o False (Update the current number)
+> o _False_ (Update the current number)
