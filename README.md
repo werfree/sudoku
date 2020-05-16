@@ -10,4 +10,4 @@
 
 > o _False_ (Update the current number)
 
-❮img src="image.png" ❯
+![Alt text](image.png?raw=true "Title")
