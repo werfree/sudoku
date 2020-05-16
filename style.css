@@ -1,26 +1,28 @@
-#container{
+#container {
     height: auto;
     width: 540px;
     background-color: white;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    align-content: space-evenly ; 
+    align-content: space-evenly;
     margin: 0 auto;
 }
 
-#generate-sudoku{
-    margin:auto;
-    display:block;;
+#generate-sudoku {
+    margin: auto;
+    display: block;
+    ;
 }
 
 
-#solve{
-    margin:auto;
-    display:block;;
+#solve {
+    margin: auto;
+    display: block;
+    ;
 }
 
-#container div{
+#container div {
     background-color: whitesmoke;
     height: 60px;
     width: 60px;
@@ -28,45 +30,49 @@
     font-family: sans-serif;
     text-align: center;
     vertical-align: middle;
-    line-height: 60px; 
-    font-size: 30px; 
+    line-height: 60px;
+    font-size: 30px;
     color: green;
-    
+
 }
 
-#container div:hover{
+#difficulty {
+    margin: auto;
+}
+
+#container div:hover {
     background-color: lightskyblue;
 }
 
-.lsb{
+.lsb {
     border-left: black 2px solid;
 }
 
-.bsb{
+.bsb {
     border-bottom: black 2px solid;
 }
 
-.rsb{
+.rsb {
     border-right: black 2px solid;
 }
 
-.tsb{
+.tsb {
     border-top: black 2px solid;
 }
 
 
-.ldb{
+.ldb {
     border-left: black 0.6px dashed;
 }
 
-.bdb{
+.bdb {
     border-bottom: black 0.6px dashed;
 }
 
-.rdb{
+.rdb {
     border-right: black 0.6px dashed;
 }
 
-.tdb{
+.tdb {
     border-top: black 0.6px dashed;
 }
